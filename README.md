@@ -39,7 +39,7 @@ An intelligent financial analysis system that combines **Agentic RAG (Retrieval-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cfo-agentic-rag.git
+   git clone [https://github.com/yourusername/cfo-agentic-rag.git]
    cd cfo-agentic-rag
    ```
 
