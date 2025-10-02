@@ -206,36 +206,3 @@ month,entity,account_category,amount,currency
 month,entity,cash_usd
 2023-01,Consolidated,6000000
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Add tests for new functionality
-5. Ensure all tests pass (`python -m pytest tests/`)
-6. Commit your changes (`git commit -m 'Add amazing feature'`)
-7. Push to the branch (`git push origin feature/amazing-feature`)
-8. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/) for the web interface
-- Powered by [OpenAI](https://openai.com/) for intelligent question routing
-- Uses [Plotly](https://plotly.com/) for interactive visualizations
-- Financial calculations implemented with [Pandas](https://pandas.pydata.org/)
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/cfo-agentic-rag/issues) page
-2. Review the test suite for usage examples
-3. Create a new issue with detailed information
-
----
-
-**Built for CFOs who need precise, fast financial analysis with the power of AI and the accuracy of deterministic calculations.** 🚀
